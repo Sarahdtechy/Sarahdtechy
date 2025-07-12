@@ -1,6 +1,6 @@
 ## Hi there I’m Sarah Adeola 👋
 
-Data Analyst | Edtech Specialist  | Aspiring Data Scientist
+## Data Analyst | Edtech Specialist  | Aspiring Data Scientist
 Welcome to my GitHub! I'm a data enthusiast who is passionate about technology and a strong interest in solving real-world problems through data. I enjoy uncovering patterns, creating intuitive visuals, and using data to drive business outcomes.
 
 ## 📊 Areas of Expertise
