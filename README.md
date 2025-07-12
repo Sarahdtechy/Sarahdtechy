@@ -21,16 +21,16 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 
   ##  Projects
 
-- 📊 **Excel Dashboard: Monthly Sales Report**  
+-  **Excel Dashboard: Monthly Sales Report**  
   Created an interactive Excel dashboard using pivot tables, slicers, and charts to track monthly sales trends and highlight key performance metrics.
 
-- 📌 **Power BI Report: Product Sales Analysis**  
+-  **Power BI Report: Product Sales Analysis**  
   Built a dynamic Power BI report to analyze sales performance across products, regions, and sales reps, including DAX measures and custom visuals.
 
-- 📉 **Tableau Dashboard: Global Superstore Data**  
+-  **Tableau Dashboard: Global Superstore Data**  
   Visualized sales, profit, and shipping data using filters, calculated fields, and story dashboards to identify growth opportunities and bottlenecks.
 
-- 🔍 **SQL Queries: Customer Purchase Insights**  
+-  **SQL Queries: Customer Purchase Insights**  
   Wrote structured queries to extract insights from a customer transactions database, including joins, grouping, and window functions to analyze behavior over time.
 
 - 📁 **Excel Tool: Budget vs Actual Tracker**  
@@ -39,12 +39,16 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 
 ## 🎓 Education & Certifications
 
-- **B.Sc. in Biological Sciences**  
-- **Google Data Analytics Certificate** *(In Progress)*  
-- **Excel for Data Analysis – LinkedIn Learning**  
-- **SQL for Data Science – Coursera / UC Davis**  
-- **Power BI Essentials – Microsoft Learn**  
-- **Tableau Data Visualization – DataCamp**
+- **Data Science/ Machine Learning** *(Codar Tech Africa- In Progress)
+- **Excel and PowerBI for Data Analysis** – Codar Tech Africa - 2025
+- **Advanced Excel** – New Horizon  - 2024
+- **Data Analytics/Science** – Podar Green Academy - 2023
+- **B.Sc. in Biological Sciences**- Olabisi Onabanjo University- 2018
+- **Diploma in Computer Studies**- Adams Computer College- 2018
+
+- Data Science EXPLORE AI ACADEMY x ALX Africa
+
+
 
 <!--
 **Sarahdtechy/Sarahdtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
