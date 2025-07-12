@@ -1,10 +1,19 @@
-## Hi there 👋
+## Hi there I’m Sarah Adeola 👋
 
 <!--
 **Sarahdtechy/Sarahdtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- Welcome to my GitHub! I'm a data analyst with a keen eye for detail and a strong interest in solving real-world problems through data. With a background in Biological Sciences and a growing passion for transforming raw data into clear, actionable insights. I enjoy uncovering patterns, creating intuitive visuals, and using data to solve real-world problems.
 
+---
+## 📊 Areas of Expertise
+- Data Cleaning & Transformation  
+- Data Visualization & Dashboarding  
+- Descriptive & Diagnostic Analysis  
+- Report Automation  
+- Insight Communication & Presentation
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
