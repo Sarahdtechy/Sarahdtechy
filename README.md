@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 - **Advanced Excel** – New Horizon  - 2024
 - **Data Analytics/Science** – Podar Green Academy - 2023
 - **B.Sc. in Biological Sciences**- Olabisi Onabanjo University- 2018
-- **Diploma in Computer Studies**- Adams Computer College- 2018
+- **Diploma in Computer Studies**- Adams Computer College- 2011
 
 ##  What I’m Currently Working On
 - Using Python to uncover real- world data.
@@ -56,8 +56,8 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 
 ## 📬 How to Reach Me
 
--  Email: [sarahadeola072@gmail.com]  
--  LinkedIn: [https://www.linkedin.com/in/oluwaseyi-adeola-75b92a1b3/]  
+-  Email: sarahadeola072@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/oluwaseyi-adeola-75b92a1b3/
 -
 
 ---
