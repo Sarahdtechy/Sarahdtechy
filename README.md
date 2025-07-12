@@ -46,8 +46,20 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 - **B.Sc. in Biological Sciences**- Olabisi Onabanjo University- 2018
 - **Diploma in Computer Studies**- Adams Computer College- 2018
 
-- Data Science EXPLORE AI ACADEMY x ALX Africa
+##  What I’m Currently Working On
+- Using Python to uncover real- world data.
+- Expanding dashboard design skills in Power BI and Tableau  
+- Practicing complex SQL queries and optimization techniques  
+- Automating repetitive analysis using Excel tools  
+- Building a polished portfolio of real-world, business-focused datasets
 
+ ## 🤝 Let’s Collaborate
+Open to collaborations on:
+- Data analysis projects (entry to mid-level)  
+- Data cleaning and visualization tasks  
+- Insightful dashboards and reporting  
+- GitHub-based open-source contributions  
+- Freelance or contract-based opportunities in data
 
 
 <!--
