@@ -53,6 +53,21 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 - Automating repetitive analysis using Excel tools  
 - Building a polished portfolio of real-world, business-focused datasets
 
+
+## 📬 How to Reach Me
+
+-  Email: [sarahadeola072@gmail.com]  
+-  LinkedIn: [https://www.linkedin.com/in/oluwaseyi-adeola-75b92a1b3/]  
+-
+
+---
+
+## 🎉 Fun Fact
+
+I’ve never bugged —but I’ve spent hours debugging a dataset and found it strangely therapeutic. I love patterns, clean visuals, and simplifying complexity.
+
+---
+
  ## 🤝 Let’s Collaborate
 Open to collaborations on:
 - Data analysis projects (entry to mid-level)  
@@ -65,20 +80,6 @@ Open to collaborations on:
 <!--
 **Sarahdtechy/Sarahdtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-## 📊 Areas of Expertise
-
-- Data Cleaning & Transformation  
-- Data Visualization & Dashboarding  
-- Descriptive & Diagnostic Analysis  
-- Report Automation  
-- Insight Communication & Presentation
-## 📊 Areas of Expertise
-- Data Cleaning & Transformation  
-- Data Visualization & Dashboarding  
-- Descriptive & Diagnostic Analysis  
-- Report Automation  
-- Insight Communication & Presentation
   
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
