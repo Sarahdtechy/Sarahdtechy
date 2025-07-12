@@ -21,20 +21,22 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 
   ##  Projects
 
-- 📊 Excel Dashboard: Monthly Sales Report
+- 📊 **Excel Dashboard: Monthly Sales Report**  
   Created an interactive Excel dashboard using pivot tables, slicers, and charts to track monthly sales trends and highlight key performance metrics.
 
-- 📌 Power BI Report: Product Sales Analysis
+- 📌 **Power BI Report: Product Sales Analysis**  
   Built a dynamic Power BI report to analyze sales performance across products, regions, and sales reps, including DAX measures and custom visuals.
 
-- 📉 Tableau Dashboard: Global Superstore Data
+- 📉 **Tableau Dashboard: Global Superstore Data**  
   Visualized sales, profit, and shipping data using filters, calculated fields, and story dashboards to identify growth opportunities and bottlenecks.
 
-- 🔍 SQL Queries: Customer Purchase Insights
+- 🔍 **SQL Queries: Customer Purchase Insights**  
   Wrote structured queries to extract insights from a customer transactions database, including joins, grouping, and window functions to analyze behavior over time.
 
-- 📁 Excel Tool: Budget vs Actual Tracker
+- 📁 **Excel Tool: Budget vs Actual Tracker**  
   Designed a financial tracker in Excel with conditional formatting, automated variance calculations, and clean, printable summaries.
+
+
 
 <!--
 **Sarahdtechy/Sarahdtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
