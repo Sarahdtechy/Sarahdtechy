@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
 -  **SQL Queries: Customer Purchase Insights**  
   Wrote structured queries to extract insights from a customer transactions database, including joins, grouping, and window functions to analyze behavior over time.
 
-- 📁 **Excel Tool: Budget vs Actual Tracker**  
+- **Excel Tool: Budget vs Actual Tracker**  
   Designed a financial tracker in Excel with conditional formatting, automated variance calculations, and clean, printable summaries.
 
 
