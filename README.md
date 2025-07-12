@@ -37,6 +37,14 @@ Welcome to my GitHub! I'm a data enthusiast who is passionate about technology a
   Designed a financial tracker in Excel with conditional formatting, automated variance calculations, and clean, printable summaries.
 
 
+## 🎓 Education & Certifications
+
+- **B.Sc. in Biological Sciences**  
+- **Google Data Analytics Certificate** *(In Progress)*  
+- **Excel for Data Analysis – LinkedIn Learning**  
+- **SQL for Data Science – Coursera / UC Davis**  
+- **Power BI Essentials – Microsoft Learn**  
+- **Tableau Data Visualization – DataCamp**
 
 <!--
 **Sarahdtechy/Sarahdtechy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
